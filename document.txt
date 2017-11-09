@@ -1,4 +1,4 @@
-[//]: # (vi: ft=markdown)
+[//]: # ( vim: set ft=markdown: )
 
 # Codex Vitae
 This Codex Vitae, or "book of life", is a collection of my beliefs and concepts
@@ -46,10 +46,52 @@ Fundamentals that guide my life.
 # Selfcare
 
 ## Productivity
+
 ### Beliefs
+
+* Reading about productivity can be a good way to grow, but nothing beats *Actually Doing Something*.
+
+* "Done" now is better than "perfect" someday.
+
+* Priority is not plural. Always now your most important task, and treat everything else as a "Plus".
+
+* Calendar blocking makes me more committed.
+
+* When procrastinating clear everything up and start with a Pomodoro.
+
+* Do the hard stuff before 1PM.
+
+* Try to have meetings as late as possible not to interfere with Maker's Time.
+
+* Know what do you want to do. Next Action beats huge monolithic project.
+
+* Keep Inbox Zero, store mail related to projects in some external storage (Evernote, Git, ...).
+
+* Productivity is a means, not a goal itself. Be human first and foremost.
+
+* Context switching is costly.
+
 ### Pre-Decisions
+
+* Store ideas in an external storage. Clear your mind as often as possible.
+
+* Note things down when you make observations. Articulation helps with cognition.
+
+* Complete a morning routine before starting work. This eliminates some possible distractions.
+
+* Take Breaks After Pomodoros. Walk. Gaze in the distance letting eyes rest. Breathe some fresh air.
+
 ### Aspirations
 
+* Be able to work much less time with much better results.
+
+* Improve focus.
+
+* Improve planning.
+
+* Improve estimation.
+
+* Make Interstital Journaling Consistent.
 
 ## Food
 ### Beliefs
@@ -97,6 +139,21 @@ Fundamentals that guide my life.
 
 ## Consumerism
 ### Beliefs
+
+#### Companies I'd rather not deal with
+
+- HP
+- BP
+
+#### Companies I like and endorse
+
+- Linn
+- Freeletics
+- Uniqlo
+- Patagonia
+- Smartwool
+- Icebreaker
+
 ### Pre-Decisions
 ### Aspirations
 
