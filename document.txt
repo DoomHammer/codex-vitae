@@ -377,13 +377,34 @@ Fundamentals that guide my life.
 # Work
 ## Career
 ### Beliefs
+
+* Most work benefits from good communication.
+
+* Which means don't hesitate to ask if something is unclear.
+
+* Sitting on a problem non-stop won't solve it. Give your mind a break and it will provide solutions.
+
+* Prefer short focused work instead of multitasking.
+
+* Perfection is rarely reached in a business enviornment but that should not allow for sloppiness.
+
+* Do work that you enjoy, it will be much easier this way.
+
 ### Pre-Decisions
+
+* If something is boring automate it or you risk not doing it at all.
+
+* You cannot control everything. Delegate if necessary.
+
+* Know what you want to achieve when starting a task.
+
 ### Aspirations
 
 * Teach.
 
 * Start speaking publicly.
 
+* Learn how to recognize poeple worth hiring.
 
 ## Business
 ### Beliefs
@@ -401,6 +422,8 @@ Fundamentals that guide my life.
 ### Beliefs
 ### Pre-Decisions
 ### Aspirations
+
+* Pursue various side-projects.
 
 # ===
 
