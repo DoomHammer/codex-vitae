@@ -25,7 +25,7 @@ have been helpful to me.
 - Consider creating your own Codex Vitae. Feel free to copy anything here that
   is helpful.
 
-# ===
+---
 
 # In General
 ## Meta-beliefs
@@ -41,7 +41,7 @@ Beliefs about beliefs.
 ## Principles
 Fundamentals that guide my life.
 
-# ===
+---
 
 # Selfcare
 
@@ -289,7 +289,7 @@ Fundamentals that guide my life.
 
 * Try to better understand my partner.
 
-# ===
+---
 
 # Material World
 
@@ -372,7 +372,7 @@ Fundamentals that guide my life.
 ### Pre-Decisions
 ### Aspirations
 
-# ===
+---
 
 # Work
 ## Career
@@ -425,7 +425,7 @@ Fundamentals that guide my life.
 
 * Pursue various side-projects.
 
-# ===
+---
 
 # Philosophy
 ## Society
@@ -463,7 +463,7 @@ Fundamentals that guide my life.
 ### Aspirations
 
 
-# ===
+---
 
 # Fears
 
@@ -503,7 +503,7 @@ Quotes and mottos to live by.
 ## Inspirational Lives
 People who's lives or work inspire me in mine.
 
-# ===
+---
 
 # My Writing
 
