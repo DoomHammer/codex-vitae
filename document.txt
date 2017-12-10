@@ -667,22 +667,14 @@ Fundamentals that guide my life.
 * Failing to understand my partner.
 
 # Influences and recommendations
+
 ## Concepts
 Philosophies or ideas I espouse.
-
 
 ## Books, Media
 Books and other media that have impacted my believes.
 
-
-## Quotations
-Quotes and mottos to live by.
-
-
-## Inspirational Lives
-People who's lives or work inspire me in mine.
-
-## Favourite Books
+### Favourite Books
 
 - Death: The High Cost of Living
 - The Hobbit
@@ -697,11 +689,19 @@ People who's lives or work inspire me in mine.
 
 More: https://www.goodreads.com/review/list/1248703?shelf=read&sort=rating
 
-## Favourite Music Albums
+### Favourite Music Albums
 
 - [Too many to enumerate](https://www.last.fm/user/DoomHammerNG/library/albums?from=2006-12-12&to=2017-12-06)
 
-## Favourite Food
+## Quotations
+Quotes and mottos to live by.
+
+## Inspirational Lives
+People who's lives or work inspire me in mine.
+
+## Recommendations
+
+### Favourite Food
 
 - Best Mexican Resturant: [Dos Tacos](http://www.dostacos.pl/), Warsaw, Poland
 - Best Pizza: [Oliwa do Ognia](https://facebook.com/oliwadoognia/), Gdańsk, Poland
