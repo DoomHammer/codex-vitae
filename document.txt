@@ -504,7 +504,9 @@ Fundamentals that guide my life.
 ---
 
 # Work
+
 ## Career
+
 ### Beliefs
 
 * Most work benefits from good communication.
@@ -536,6 +538,7 @@ Fundamentals that guide my life.
 * Learn how to recognize poeple worth hiring.
 
 ## Business
+
 ### Beliefs
 
 * Hiring right people is probably the hardest part of managing a business.
@@ -569,15 +572,25 @@ Fundamentals that guide my life.
 * Build a passive income portfolio.
 
 ## Learning
+
 ### Beliefs
+
+* Learning different fields helps broaden the mind.
+
+* Small chunks of data make it easier to accomodate learning into a daily routine. This is why I find apps like Duolingo or Blinkist to be helpful.
+
+* It is harder to forget practice than it is to forget theory. Focus on practicing the learned skills.
+
 ### Pre-Decisions
 
 * Each day dedicate at least 15 minutes to learn or practice.
 
 ### Aspirations
 
+* Learn to communicate fluenlty in at least 4 languages (betting on Polish, English, German and Spanish for now).
 
 ## Passion Projects
+
 ### Beliefs
 
 * Ideally passion projects, work and business should overlap, though not necessarily in full.
