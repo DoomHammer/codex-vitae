@@ -878,3 +878,7 @@ Various bits that I like are published on [DoomHammer Supposes Erroneously](http
 - Grew enormously in several fields I haven't anticipated I'd be dealing with.
 - Established myself as a flow optimizer: I like to look at the project both on technical and on the process side, talk with people involved, notice patterns and problems then suggest improvements to the said processes, the tools used and also the culture and education. A role crossing the borders of engineering, management and psychology.
 - Learned the power of marketing. Applied to an incomplete and buggy product which in turn provided a case against perfectionism.
+
+### Did I Attend any Meetings, Conferences or Trainings?
+- [Bar w Cyfrach](https://web.facebook.com/media/set/?set=a.1834426830130829.1073741836.1774271249479721&type=3) by [Bar School](http://barschool.pl/)
+- [Better Bar 4](https://web.facebook.com/events/1583997601651454/)
