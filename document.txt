@@ -74,6 +74,8 @@ Fundamentals that guide my life.
 
 * Context switching is costly.
 
+* ASAP often leads to FUBAR.
+
 ### Pre-Decisions
 
 * Store ideas in an external storage. Clear your mind as often as possible.
