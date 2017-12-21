@@ -878,7 +878,7 @@ Various bits that I like are published on [DoomHammer Supposes Erroneously](http
 - Returned to writing for my own pleasure.
 - Started experiments in personal branding.
 - Grew enormously in several fields I haven't anticipated I'd be dealing with.
-- Established myself as a flow optimizer: I like to look at the project both on technical and on the process side, talk with people involved, notice patterns and problems then suggest improvements to the said processes, the tools used and also the culture and education. A role crossing the borders of engineering, management and psychology.
+- Established myself as an efficiency hacker: I look at the project both on technical and on the process side, talk with people involved, notice patterns and problems then suggest improvements to the said processes, the tools used and also the culture and education. A role crossing the borders of engineering, management and psychology.
 - Learned the power of marketing. Applied to an incomplete and buggy product which in turn provided a case against perfectionism.
 
 ### Did I Attend any Meetings, Conferences or Trainings?
