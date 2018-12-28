@@ -947,10 +947,10 @@ Various bits that I like are published on [DoomHammer Supposes Erroneously](http
 
 ### Relationships
 - Met a lot of new and interesting people mainly through the places I started to frequent.
-- Found out a value of networking. Eg. I met a business contact through a coach I met through a physical therapist I met thorugh another coach.
+- Found out a value of networking. Eg. I met a business contact through a coach I met through a physical therapist I met through another coach.
 
 ### Cat Mode
-- Created a [Nighttime Birds]() routine to chill out in the evenings
+- Created a [Nighttime Birds](https://medium.com/doomhammer-talks/want-to-boost-creativity-try-this-musical-ritual-eebb042151be) routine to chill out in the evenings
 - Started going on weekly(-ish) walks in the park
 - Recipe for Relax: bathtub full of hot water + aroma oil + [Umbra Aquala](http://www.umbra.com/eur/catalog/product/view/id/2932/s/aquala-bathtub-caddy/) + good reading + nice beverage + music ([UE Roll 2](https://www.ultimateears.com/nl-nl/wireless-speakers/roll-2.html) can float in the same tub)
 
@@ -961,7 +961,7 @@ Various bits that I like are published on [DoomHammer Supposes Erroneously](http
 - Started experiments in personal branding.
 - Grew enormously in several fields I haven't anticipated I'd be dealing with.
 - Established myself as an efficiency hacker: I look at the project both on technical and on the process side, talk with people involved, notice patterns and problems then suggest improvements to the said processes, the tools used and also the culture and education. A role crossing the borders of engineering, management and psychology.
-- Learned the power of marketing. Applied to an incomplete and buggy product which in turn provided a case against perfectionism.
+- Learned the power of marketing. I applied it to an incomplete and buggy product but it gathered loyal customers anyway. This provided a case against perfectionism.
 
 ### Did I Attend any Meetings, Conferences or Trainings?
 - [Bar w Cyfrach](https://web.facebook.com/media/set/?set=a.1834426830130829.1073741836.1774271249479721&type=3) by [Bar School](http://barschool.pl/)
