@@ -2,7 +2,7 @@
 
 all: docs/index.html | .git/hooks.old
 
-docs/index.html: docs document.txt
+docs/index.html: document.txt | docs
 	markdown $< > $@
 
 docs:
